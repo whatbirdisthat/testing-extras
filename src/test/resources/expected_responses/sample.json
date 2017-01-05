@@ -1,0 +1,83 @@
+{
+  "RSP": {
+    "api": "site",
+    "request": "get_next",
+    "ts": 1479274502,
+    "ts_timezone": "Australia\/Darwin",
+    "rc": 0,
+    "events": {
+      "event": [
+        {
+          "parent_name": "Ice Hockey",
+          "category_name": "NHL Matches",
+          "event_name": "New York Rangers at Vancouver Canucks Live",
+          "race_num": "0",
+          "category_id": "1551",
+          "event_datetime": "2016-11-16 03:00:00",
+          "parent_id": "225",
+          "timezone": "GMT",
+          "event_id": "1903548",
+          "localevent_datetime": "2016-11-16 12:30:00",
+          "url": "index.php?cPath=1551",
+          "event_datetime_tz": "2016-11-16T03:00:00+00:00"
+        },
+        {
+          "parent_name": "Ice Hockey",
+          "category_name": "NHL Matches",
+          "event_name": "Edmonton Oilers at Anaheim Ducks Live",
+          "race_num": "0",
+          "category_id": "1551",
+          "event_datetime": "2016-11-16 03:00:00",
+          "parent_id": "225",
+          "timezone": "GMT",
+          "event_id": "1903547",
+          "localevent_datetime": "2016-11-16 12:30:00",
+          "url": "index.php?cPath=1551",
+          "event_datetime_tz": "2016-11-16T03:00:00+00:00"
+        },
+        {
+          "parent_name": "Basketball",
+          "category_name": "NBA Matches",
+          "event_name": "Brooklyn Nets at Los Angeles Lakers Live",
+          "race_num": "0",
+          "category_id": "1821",
+          "event_datetime": "2016-11-16 03:35:00",
+          "parent_id": "22",
+          "timezone": "GMT",
+          "event_id": "1903518",
+          "localevent_datetime": "2016-11-16 13:05:00",
+          "url": "index.php?cPath=1821",
+          "event_datetime_tz": "2016-11-16T03:35:00+00:00"
+        },
+        {
+          "parent_name": "Tennis",
+          "category_name": "ATP- Toyota Challenger",
+          "event_name": "Yaraslau Shyla v Yuichi Sugita Live",
+          "race_num": "0",
+          "category_id": "8887",
+          "event_datetime": "2016-11-16 04:00:00",
+          "parent_id": "24",
+          "timezone": "GMT",
+          "event_id": "1904033",
+          "localevent_datetime": "2016-11-16 13:30:00",
+          "url": "index.php?cPath=8887",
+          "event_datetime_tz": "2016-11-16T04:00:00+00:00"
+        },
+        {
+          "parent_name": "Tennis",
+          "category_name": "ATP- Toyota Challenger",
+          "event_name": "Duck Hee Lee v Luke Saville Live",
+          "race_num": "0",
+          "category_id": "8887",
+          "event_datetime": "2016-11-16 05:14:00",
+          "parent_id": "24",
+          "timezone": "GMT",
+          "event_id": "1904034",
+          "localevent_datetime": "2016-11-16 14:44:00",
+          "url": "index.php?cPath=8887",
+          "event_datetime_tz": "2016-11-16T05:14:00+00:00"
+        }
+      ]
+    }
+  }
+}
